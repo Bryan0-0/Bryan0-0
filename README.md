@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bryan0-0.
-- 👀 I’m interested in being a Software Engineer. 
+- 👀 I’m interested in becoming a Software Engineer. 
 - 🌱 I’m currently learning computer science in college and studyng python by myself.
 - 💞️ I’m looking to collaborate on any project to improve my skills.
 - 📫 How to reach me bryan32849@gmail.com
