@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bryan0-0.
 - 👀 I’m interested in becoming a Software Engineer. 
-- 🌱 I’m currently learning computer science in college and studying python by myself.
+- 🌱 I’m currently learning computer science in college.
 - 💞️ I’m looking to collaborate on any project to improve my skills.
 - 📫 How to reach me bryan32849@gmail.com
 
