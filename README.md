@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bryan0-0.
+- 👋 Hi, I’m Bryan Montero.
 - 👀 I’m interested in becoming a Software Engineer. 
 - 🌱 I’m currently learning computer science in college.
 - 💞️ I’m looking to collaborate on any project to improve my skills.
