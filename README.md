@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bryan Montero.
-- 👀 I’m interested in becoming a Software Engineer. 
-- 🌱 I’m currently learning computer science in college.
+- 👀 I’m actively seeking an intership as a software engineer. 
+- 🌱 I’m currently studying Computer Sience at Florida International University
 - 💞️ I’m looking to collaborate on any project to improve my skills.
 - 📫 How to reach me bryanmontero99@gmail.com
 
